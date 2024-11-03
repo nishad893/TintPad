@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743900655498",
+    "project_id": "tintpad-a1e8f",
+    "storage_bucket": "tintpad-a1e8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743900655498:android:6ea79175e87968e0f86273",
+        "android_client_info": {
+          "package_name": "com.example.color_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_2_sJaBuzaEXlmuUZaUkL8mtY0rdxW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
